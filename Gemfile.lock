@@ -241,8 +241,8 @@ GEM
     rb-inotify (0.10.0)
       ffi (~> 1.0)
     regexp_parser (2.1.1)
-    rexml (3.2.8)
-      strscan (>= 3.0.9)
+    rexml (3.3.6)
+      strscan
     rouge (3.11.0)
     rubocop (0.93.1)
       parallel (~> 1.10)
